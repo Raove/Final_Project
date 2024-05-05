@@ -6,7 +6,7 @@ Follow these steps to get your development environment running:
 
 1. **Clone the repository**
    ```bash
-   git clone -b Emotion_Change https://github.com/Raove/Final_Project.git
+   git clone https://github.com/Raove/Final_Project.git
    cd Final_Project
    ```
 2. **Set up a Conda environment**
