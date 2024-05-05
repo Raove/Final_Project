@@ -6,7 +6,7 @@ Follow these steps to get your development environment running:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Raove/Final_Project.git
+   git clone -b Emotion_CNN https://github.com/Raove/Final_Project.git
    cd Final_Project
    ```
 2. **Set up a Conda environment**
@@ -21,6 +21,10 @@ Follow these steps to get your development environment running:
    ```bash
     pip install -r requirements.txt
    ```
+
+4. **Run Code**
+   Load existing models in objectdetect.ipynb as well as all data processing functions, then use call of the three WebcamViewer functions. The first focuses on single subjects, the second handles multiple subjects, and the third uses a VGG16 model for comparison.
+
 
 ## Motivation:
 
