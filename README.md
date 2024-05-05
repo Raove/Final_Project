@@ -45,6 +45,7 @@ We will use an image of a person's face and an image of a their emotion. A succe
 - OpenCV, matplot, scipy, skiamge, numpy
 - Dataset of individuals faces and emotions
 - https://www.pinterest.com/pin/40884309088244854/
+- https://www.slate.com/articles/health_and_science/cover_story/2016/08/can_smiling_make_you_happier_maybe_maybe_not_we_have_no_idea.html
 
 ## Group Contributions:
 
